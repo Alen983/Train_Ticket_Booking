@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500;600&display=swap");
+body {
+    background-color: #eaeff1;
+    font-family: "Raleway", sans-serif;
+    
+  }
+  #img01 {
+    width: 100%;
+    border-radius: 12px;
+    height: 214px;
+    object-fit: cover;
+  }
+
+  #container {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-gap: 50px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 300px; 
+    margin: 0 auto;
+    margin-top: 10vh;
+  }
+
+  .card {
+    
+    background-color: white;
+    border: 1px solid #bacdd8;
+    padding: 8px;
+    border-radius: 12px;
+  }
+
+  
+.tag {
+    padding: 4px 8px;
+    border: 1px solid #e5eaed;
+  
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #788697;
+  }
+  
+  
+  .name {
+    font-size: 24px;
+    font-weight: 600;
+  
+    margin-top: 16px;
+  }
+  
+  
+  p {
+    font-size: 14px;
+    color: #7f8c9b;
+    line-height: 150%;
+  }
+  
+  /* Style button element */
+  button {
+    border: none;
+    padding: 12px 24px;
+    border-radius: 50px;
+  
+    font-weight: 600;
+    color: #0077ff;
+    background-color: #e0efff;
+  
+    
+    margin: 0 auto;
+    display: block;
+  
+    
+    cursor: pointer;
+  }
+  
+  .card__details {
+   
+    padding: 16px 8px 8px 8px;
+  }
+
+  /* Add style when button is focused or hovered */
+button:focus,
+button:hover {
+  background-color: #0077ff;
+  color: #e0efff;
+}
+  

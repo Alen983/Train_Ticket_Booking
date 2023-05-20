@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*navbar css*/
+.navbar-nav{
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-name{
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+    font-size:20px;
+    margin-right: 20px;
+    text-decoration: none;
+  }
+  
+  ul.navbar-linked{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+   
+  }
+  
+  .navbar-linked li{
+    padding: 0px 20px;
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .navbar-linked a{
+    color:rgba(0,0,0,.5);
+    text-decoration: none;
+  
+  }
+  .navbar-linked a:hover{
+    color: rgba(0,0,0,.9);
+    
+  }
+
+  /*footer ---> inline css added*/
+  
+
+
+  
+  /*About Page*/
+  .po1{
+    text-align:center;
+    color: black;
+  }
+  
+
+/*package index ---> packageindex.css*/
+
+
