@@ -4,3 +4,13 @@
 ## Description
 Train ticket booking system is a web application developed for booking train tickets online.This application provides and easy way for booking tickets and printing the ticket.
 
+## Tools Used
+  ### Front End
+    - HTML
+    - CSS
+    - Javascript
+  ### Back End
+    - PhP
+    - MySQL Database
+    
+
