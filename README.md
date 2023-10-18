@@ -30,13 +30,6 @@ welcoming all contributions from the community and are grateful for any help. Be
 ##  Code of Conduct
 As the contributors and maintainers of the Train Ticket Booking, are committed to creating a friendly and respectful community for everyone. We value the participation of every individual and want to ensure that our project and community is a welcoming and inclusive environment. We expect all contributors to adhere to this Code of Conduct.
 
-### Our Standards
-As contributors and maintainers of the Trai, we pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
-
-### Attribution
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
-
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
