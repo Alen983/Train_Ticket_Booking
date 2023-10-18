@@ -26,8 +26,8 @@ welcoming all contributions from the community and are grateful for any help. Be
 ### How to Contribute
 1. **Fork the Repository:** Click the "Fork" button on the top right of this repository to create your own copy.
 2. **Clone Your Fork:** Clone your fork to your local machine and set the original repository as a remote.
-   # Project Name Code of Conduct
 
+##  Code of Conduct
 As the contributors and maintainers of the Train Ticket Booking, are committed to creating a friendly and respectful community for everyone. We value the participation of every individual and want to ensure that our project and community is a welcoming and inclusive environment. We expect all contributors to adhere to this Code of Conduct.
 
 ## Our Standards
